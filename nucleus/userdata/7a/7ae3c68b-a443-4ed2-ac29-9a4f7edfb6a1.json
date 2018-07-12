@@ -1,0 +1,27 @@
+{
+  "jailOnNextLogin": false,
+  "kitLastUsedTime": {},
+  "ignoreList": [],
+  "isFrozen": false,
+  "mail": [],
+  "invulnerable": false,
+  "notes": [],
+  "warnings": [],
+  "vanish": false,
+  "fly": false,
+  "lastKnownName": "LillMicke001",
+  "lastLogin": 1531285071177,
+  "lastLogout": 1531287719528,
+  "lastIP": "/85.225.186.161",
+  "firstJoin": 1531285071101,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "world": "6d2a7239-e701-4e13-8dbb-f5bc304f4c7b",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": -691.3282478117767,
+    "y": 11.0,
+    "z": 200.5433602097718
+  }
+}

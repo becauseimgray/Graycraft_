@@ -1,0 +1,51 @@
+{
+  "fly": true,
+  "isFrozen": false,
+  "lastLogin": 1531360809240,
+  "lastLogout": 1531361307903,
+  "lastIP": "/174.96.216.204",
+  "firstJoin": 1531359171071,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "lastKnownName": "ili_Rubyili",
+  "powertoolToggle": true,
+  "vanish": false,
+  "invulnerable": false,
+  "nickname-text": "{\"text\":\"Ruby\"}",
+  "lastLocation": {
+    "world": "fcbcb4be-bb0f-494b-b6f0-9efbfcf631f5",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 154.11949154320703,
+    "y": 72.0,
+    "z": 267.56505203222025
+  },
+  "tptoggle": true,
+  "homes": {
+    "rxg": {
+      "world": "6d2a7239-e701-4e13-8dbb-f5bc304f4c7b",
+      "rotx": 26.24936294555664,
+      "rotz": 0,
+      "roty": 179.7127685546875,
+      "x": 1371.8787238698064,
+      "y": 63.49999,
+      "z": 3585.589469717429
+    },
+    "home": {
+      "world": "6d2a7239-e701-4e13-8dbb-f5bc304f4c7b",
+      "rotx": 26.099363327026367,
+      "rotz": 0,
+      "roty": 179.7127685546875,
+      "x": 1371.8787238698064,
+      "y": 63.49999,
+      "z": 3585.589469717429
+    }
+  },
+  "notes": [],
+  "mail": [],
+  "warnings": [],
+  "kitLastUsedTime": {},
+  "powertools": {},
+  "ignoreList": []
+}

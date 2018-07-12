@@ -1,0 +1,28 @@
+{
+  "vanish": false,
+  "fly": true,
+  "isFrozen": false,
+  "lastKnownName": "Thoth728",
+  "lastLocation": {
+    "world": "6d2a7239-e701-4e13-8dbb-f5bc304f4c7b",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 274.3864057498225,
+    "y": 68.0,
+    "z": -723.7042940481624
+  },
+  "lastLogin": 1531338593278,
+  "lastLogout": 1531346498278,
+  "lastIP": "/99.250.82.148",
+  "firstJoin": 1531130050090,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "tptoggle": true,
+  "notes": [],
+  "kitLastUsedTime": {},
+  "mail": [],
+  "ignoreList": [],
+  "warnings": []
+}

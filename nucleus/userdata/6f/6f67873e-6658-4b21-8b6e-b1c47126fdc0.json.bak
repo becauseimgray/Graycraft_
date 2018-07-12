@@ -1,0 +1,27 @@
+{
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastKnownName": "Nexus1562",
+  "lastLogin": 1531360796764,
+  "lastLogout": 1531360772677,
+  "lastIP": "/47.147.74.109",
+  "firstJoin": 1531359239388,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "lastLocation": {
+    "world": "fcbcb4be-bb0f-494b-b6f0-9efbfcf631f5",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 273.18338265585703,
+    "y": 61.40000895606806,
+    "z": 566.1425991702794
+  },
+  "tptoggle": true,
+  "notes": [],
+  "mail": [],
+  "warnings": [],
+  "kitLastUsedTime": {}
+}

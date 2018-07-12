@@ -1,0 +1,28 @@
+{
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "vanish": false,
+  "tptoggle": true,
+  "fly": false,
+  "lastKnownName": "Pablo_Pelo",
+  "lastLogin": 1531360812070,
+  "lastLogout": 1531360772664,
+  "lastIP": "/190.44.33.7",
+  "firstJoin": 1531359179575,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "world": "fcbcb4be-bb0f-494b-b6f0-9efbfcf631f5",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 21.88655566526901,
+    "y": 40.0,
+    "z": -56.6634251446342
+  },
+  "notes": [],
+  "mail": [],
+  "warnings": [],
+  "kitLastUsedTime": {},
+  "ignoreList": []
+}

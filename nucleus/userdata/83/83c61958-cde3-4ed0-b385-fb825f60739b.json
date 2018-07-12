@@ -1,0 +1,28 @@
+{
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "invulnerable": false,
+  "lastKnownName": "Fenrin49",
+  "lastLogin": 1531292302317,
+  "lastLogout": 1531294611222,
+  "lastIP": "/66.230.97.105",
+  "firstJoin": 1531112103971,
+  "startedFirstJoin": false,
+  "lastLocation": {
+    "world": "6d2a7239-e701-4e13-8dbb-f5bc304f4c7b",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 44.69999998807907,
+    "y": 78.0,
+    "z": 966.6404070321987
+  },
+  "notes": [],
+  "kitLastUsedTime": {},
+  "warnings": [],
+  "mail": [],
+  "ignoreList": [],
+  "tptoggle": true
+}

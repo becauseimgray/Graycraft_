@@ -1,0 +1,28 @@
+{
+  "vanish": false,
+  "fly": false,
+  "isFrozen": false,
+  "lastKnownName": "KerriKitty",
+  "lastLocation": {
+    "world": "6d2a7239-e701-4e13-8dbb-f5bc304f4c7b",
+    "rotx": 0.0,
+    "rotz": 0.0,
+    "roty": 0.0,
+    "x": 148.8848204347086,
+    "y": 64.0,
+    "z": 760.9281037193117
+  },
+  "lastLogin": 1531341914997,
+  "lastLogout": 1531349439918,
+  "lastIP": "/24.9.75.63",
+  "firstJoin": 1531110477109,
+  "startedFirstJoin": false,
+  "invulnerable": false,
+  "jailOnNextLogin": false,
+  "tptoggle": true,
+  "notes": [],
+  "mail": [],
+  "kitLastUsedTime": {},
+  "warnings": [],
+  "ignoreList": []
+}
