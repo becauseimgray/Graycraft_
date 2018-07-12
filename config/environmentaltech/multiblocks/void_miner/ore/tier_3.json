@@ -291,41 +291,6 @@
       "id": "OD:oreBrainstone"
     },
     {
-      "target": "yellow",
-      "weight": 111,
-      "id": "OD:oreCrystalAir"
-    },
-    {
-      "target": "orange",
-      "weight": 111,
-      "id": "OD:oreCrystalFire"
-    },
-    {
-      "target": "light_blue",
-      "weight": 111,
-      "id": "OD:oreCrystalWater"
-    },
-    {
-      "target": "lime",
-      "weight": 111,
-      "id": "OD:oreCrystalEarth"
-    },
-    {
-      "target": "white",
-      "weight": 111,
-      "id": "OD:oreCrystalOrder"
-    },
-    {
-      "target": "black",
-      "weight": 111,
-      "id": "OD:oreCrystalEntropy"
-    },
-    {
-      "target": "purple",
-      "weight": 111,
-      "id": "OD:oreCrystalTaint"
-    },
-    {
       "target": "lime",
       "weight": 223,
       "id": "OD:oreBrainstone"
