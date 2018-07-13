@@ -1,0 +1,22 @@
+# Ignore folders 
+backups/
+modded_world/
+crash-reports/
+journeymap/
+logs/
+cache/
+nucleus/
+
+
+# Ignore files
+OpenComputersMod*
+whitelist.json
+server.properties
+usercache.json
+crafttweaker.log
+usernamecache.json
+ops.json
+options.txt
+banned-players.json
+banned-ips.json
+run.sh
